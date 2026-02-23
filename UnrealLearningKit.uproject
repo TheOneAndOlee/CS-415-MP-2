@@ -1,0 +1,21 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.7",
+	"Category": "",
+	"Description": "Unreal Learning Kit: Game Design, Robotics, and Block Based Game",
+	"Plugins": [
+		{
+			"Name": "Bridge",
+			"Enabled": true
+		},
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true
+		},
+		{
+			"Name": "Telemetry",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/Fab/product/fd13dabf-9251-4547-9ba9-7ebbf80fc0e9"
+		}
+	]
+}
