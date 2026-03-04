@@ -14,7 +14,7 @@
 		},
 		{
 			"Name": "Telemetry",
-			"Enabled": false,
+			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/Fab/product/fd13dabf-9251-4547-9ba9-7ebbf80fc0e9"
 		}
 	]
